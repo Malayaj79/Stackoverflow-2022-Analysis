@@ -27,7 +27,7 @@ There is 1 notebooks available here to showcase work related to the above questi
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available here
+The main findings of the code can be found at the post available here : https://medium.com/@malayajsrivastava79/whats-popular-among-the-data-folks-in-2022-a686490f0dfd
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
